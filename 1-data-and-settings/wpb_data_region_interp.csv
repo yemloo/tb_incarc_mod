@@ -1,0 +1,263 @@
+"Country","Year","Incarcerated Population","Incarceration Prevalence"
+"Belize",1992,617,316
+"Belize",1995,630,304
+"Belize",1998,1043,464
+"Belize",2000,765,310
+"Belize",2001,858,336
+"Belize",2002,951,363
+"Belize",2003,1050,389
+"Belize",2004,1149,415
+"Belize",2005,1256,442
+"Belize",2006,1363,468
+"Belize",2007,1364,456
+"Belize",2008,1365,445
+"Belize",2009,1392,443
+"Belize",2010,1420,441
+"Belize",2011,1491,449
+"Belize",2012,1562,457
+"Belize",2013,1544,444
+"Belize",2014,1527,430
+"Belize",2015,1450,402
+"Belize",2016,1374,373
+"Belize",2017,1297,345
+"Belize",2018,1224,320
+"Belize",2019,1150,296
+"Belize",2020,1098,277
+"Belize",2021,1046,258
+"Bolivia",1989,3582,54
+"Bolivia",1996,5412,69
+"Bolivia",1998,6149,75
+"Bolivia",2000,8151,95
+"Bolivia",2001,7108,82
+"Bolivia",2002,6065,68
+"Bolivia",2003,6280,69
+"Bolivia",2004,6495,70
+"Bolivia",2005,6763,72
+"Bolivia",2006,7031,73
+"Bolivia",2007,7232,74
+"Bolivia",2008,7433,75
+"Bolivia",2009,8420,84
+"Bolivia",2010,9406,93
+"Bolivia",2011,11839,114
+"Bolivia",2012,14272,136
+"Bolivia",2013,14246,134
+"Bolivia",2014,14220,132
+"Bolivia",2015,15129,138
+"Bolivia",2016,16038,144
+"Bolivia",2017,17203,152
+"Bolivia",2018,18368,161
+"Bolivia",2019,17836,154
+"Bolivia",2020,17305,147
+"Chile",1990,22593,171
+"Chile",1995,22027,153
+"Chile",2000,33050,215
+"Chile",2001,33976,218
+"Chile",2002,34901,222
+"Chile",2003,35638,224
+"Chile",2004,36374,226
+"Chile",2005,37896,233
+"Chile",2006,39417,240
+"Chile",2007,44122,266
+"Chile",2008,48826,291
+"Chile",2009,51727,306
+"Chile",2010,54628,320
+"Chile",2011,53255,309
+"Chile",2012,51882,298
+"Chile",2013,48692,278
+"Chile",2014,45501,257
+"Chile",2015,44552,250
+"Chile",2016,43603,242
+"Chile",2017,42646,235
+"Chile",2018,41689,228
+"Chile",2019,40786,222
+"Chile",2020,39884,215
+"Costa Rica",1990,3905,127
+"Costa Rica",1995,3490,100
+"Costa Rica",2000,7575,193
+"Costa Rica",2001,7844,196
+"Costa Rica",2002,8113,198
+"Costa Rica",2003,8502,204
+"Costa Rica",2004,8890,209
+"Costa Rica",2005,8964,208
+"Costa Rica",2006,9037,206
+"Costa Rica",2007,9360,210
+"Costa Rica",2008,9682,214
+"Costa Rica",2009,10896,236
+"Costa Rica",2010,12110,259
+"Costa Rica",2011,13855,292
+"Costa Rica",2012,15600,325
+"Costa Rica",2013,16932,348
+"Costa Rica",2014,18263,370
+"Costa Rica",2015,18076,368
+"Costa Rica",2016,17889,365
+"Costa Rica",2017,18808,380
+"Costa Rica",2018,19728,395
+"Ecuador",1990,7679,76
+"Ecuador",1995,9646,85
+"Ecuador",2000,8029,64
+"Ecuador",2001,8376,66
+"Ecuador",2002,8723,67
+"Ecuador",2003,10040,76
+"Ecuador",2004,11358,84
+"Ecuador",2005,11996,87
+"Ecuador",2006,12635,90
+"Ecuador",2007,12351,86
+"Ecuador",2008,12067,83
+"Ecuador",2009,11934,81
+"Ecuador",2010,11800,79
+"Ecuador",2011,16440,107
+"Ecuador",2012,21080,135
+"Ecuador",2013,23491,148
+"Ecuador",2014,25902,162
+"Ecuador",2015,26162,161
+"Ecuador",2016,26421,160
+"Ecuador",2017,32208,191
+"Ecuador",2018,37996,222
+"Ecuador",2019,37810,218
+"Ecuador",2020,37623,213
+"French Guiana/Guyane (France)",1998,347,228
+"French Guiana/Guyane (France)",2001,423,247
+"French Guiana/Guyane (France)",2002,532,299
+"French Guiana/Guyane (France)",2004,691,347
+"French Guiana/Guyane (France)",2006,630,297
+"French Guiana/Guyane (France)",2008,658,293
+"French Guiana/Guyane (France)",2010,715,306
+"French Guiana/Guyane (France)",2012,654,262
+"French Guiana/Guyane (France)",2014,680,258
+"French Guiana/Guyane (France)",2016,879,316
+"French Guiana/Guyane (France)",2018,726,249
+"French Guiana/Guyane (France)",2020,612,200
+"Guatemala",1989,6051,71
+"Guatemala",1995,5814,58
+"Guatemala",2000,6974,62
+"Guatemala",2002,8077,69
+"Guatemala",2004,8698,70
+"Guatemala",2006,7477,57
+"Guatemala",2008,8158,60
+"Guatemala",2010,11148,78
+"Guatemala",2012,15013,100
+"Guatemala",2014,18425,115
+"Guatemala",2016,21031,125
+"Guatemala",2018,24303,140
+"Guatemala",2020,25538,142
+"Guyana",1990,1588,219
+"Guyana",1995,1531,210
+"Guyana",1998,1698,232
+"Guyana",2001,1507,205
+"Guyana",2002,1275,173
+"Guyana",2004,1280,172
+"Guyana",2006,1861,248
+"Guyana",2008,2117,281
+"Guyana",2010,2160,286
+"Guyana",2012,2032,268
+"Guyana",2014,1967,257
+"Guyana",2016,2192,284
+"Guyana",2018,2144,275
+"Guyana",2020,1884,239
+"Honduras",1992,5717,109
+"Honduras",1995,8933,158
+"Honduras",2000,11500,175
+"Honduras",2002,11502,165
+"Honduras",2004,10931,148
+"Honduras",2006,11178,147
+"Honduras",2008,11390,141
+"Honduras",2010,11846,141
+"Honduras",2012,12095,139
+"Honduras",2014,16331,181
+"Honduras",2016,17253,186
+"Honduras",2018,20506,213
+"Honduras",2020,21675,218
+"Nicaragua",1990,3447,82
+"Nicaragua",1995,4586,98
+"Nicaragua",2000,6539,128
+"Nicaragua",2002,6885,131
+"Nicaragua",2004,6233,116
+"Nicaragua",2006,6103,110
+"Nicaragua",2008,6803,120
+"Nicaragua",2010,6500,113
+"Nicaragua",2012,9168,155
+"Nicaragua",2014,10569,175
+"Nicaragua",2016,14675,238
+"Nicaragua",2018,20918,332
+"Panama",1990,3380,135
+"Panama",1995,5607,237
+"Panama",2000,8652,283
+"Panama",2002,10423,328
+"Panama",2004,11400,345
+"Panama",2006,11575,338
+"Panama",2008,9651,272
+"Panama",2010,12542,341
+"Panama",2012,14468,380
+"Panama",2014,15690,398
+"Panama",2016,16583,407
+"Panama",2018,16561,395
+"Panama",2020,17967,416
+"Paraguay",1991,2234,51
+"Paraguay",1995,2768,57
+"Paraguay",2000,3219,60
+"Paraguay",2002,4621,83
+"Paraguay",2004,6101,106
+"Paraguay",2006,6037,102
+"Paraguay",2008,5867,96
+"Paraguay",2010,6197,99
+"Paraguay",2012,7916,123
+"Paraguay",2014,10450,158
+"Paraguay",2016,13181,195
+"Paraguay",2018,14696,212
+"Paraguay",2020,13821,194
+"Suriname",1998,560,120
+"Suriname",2000,786,163
+"Suriname",2005,820,167
+"Suriname",2009,915,177
+"Suriname",2011,1010,194
+"Suriname",2013,1050,197
+"Suriname",2014,1000,185
+"Uruguay",1990,2956,95
+"Uruguay",1995,3192,99
+"Uruguay",1999,4010,122
+"Uruguay",2000,4469,135
+"Uruguay",2001,5050,152
+"Uruguay",2002,5630,169
+"Uruguay",2003,6259,188
+"Uruguay",2004,6888,207
+"Uruguay",2005,6888,207
+"Uruguay",2006,6887,207
+"Uruguay",2007,7276,218
+"Uruguay",2008,7665,229
+"Uruguay",2009,8182,243
+"Uruguay",2010,8700,257
+"Uruguay",2011,9059,267
+"Uruguay",2012,9418,277
+"Uruguay",2013,9480,278
+"Uruguay",2014,9542,279
+"Uruguay",2015,10052,292
+"Uruguay",2016,10561,306
+"Uruguay",2017,10397,300
+"Uruguay",2018,10233,294
+"Uruguay",2019,11627,333
+"Uruguay",2020,13021,372
+"Venezuela",1992,31400,152
+"Venezuela",1996,22791,101
+"Venezuela",2000,14196,58
+"Venezuela",2001,16782,67
+"Venezuela",2002,19368,76
+"Venezuela",2003,19660,76
+"Venezuela",2004,19951,76
+"Venezuela",2005,19604,73
+"Venezuela",2006,19257,70
+"Venezuela",2007,21663,78
+"Venezuela",2008,24069,85
+"Venezuela",2009,32447,112
+"Venezuela",2010,40825,140
+"Venezuela",2011,43024,145
+"Venezuela",2012,45224,150
+"Venezuela",2013,48240,159
+"Venezuela",2014,51256,168
+"Venezuela",2015,52997,170
+"Venezuela",2016,54738,173
+"Venezuela",2017,50826,159
+"Venezuela",2018,46915,145
+"Venezuela",2019,42229,129
+"Venezuela",2020,37543,113
+"Bolivia",1990,3843,56
+"Guatemala",1990,6012,69
