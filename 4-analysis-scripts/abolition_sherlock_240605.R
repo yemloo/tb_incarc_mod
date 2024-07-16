@@ -126,13 +126,13 @@ for (i in 1:3000){
   rates <- get_annualized_rates(output_dt, horiz.start = horiz.start, horiz.end = horiz.end, by.increment = time.increment)
   
   rates <- rbind(rates, data.table(pop='Prison', variable='pop',
-                                                 rate_per100k=output_dt[time >= horiz.start & time <= horiz.end, N1],
+                                                 rate_per100k=output_dt[time >= horiz.start & time <= horiz.end, N1/(N1+N2+N3+N4)],
                                                  total=NA, time=seq(horiz.start, horiz.end, by=time.increment)),
                         data.table(pop='Post-Release', variable='pop',
-                                   rate_per100k=output_dt[time >= horiz.start & time <= horiz.end, N2],
+                                   rate_per100k=output_dt[time >= horiz.start & time <= horiz.end, N2/(N1+N2+N3+N4)],
                                    total=NA, time=seq(horiz.start, horiz.end, by=time.increment)),
                         data.table(pop='Formerly Incarc', variable='pop',
-                                   rate_per100k=output_dt[time >= horiz.start & time <= horiz.end, N3],
+                                   rate_per100k=output_dt[time >= horiz.start & time <= horiz.end, N3/(N1+N2+N3+N4)],
                                    total=NA, time=seq(horiz.start, horiz.end, by=time.increment)),fill=T)
   rates$scenario <- 'Abolition'
   rates$idx <- current_idx
