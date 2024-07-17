@@ -12,13 +12,15 @@ In Latin America, increasing punitive policies since the 1990s have resulted in 
 
 **`2-calibration-scripts`** : scripts for model calibration
 
-**`3-outputs`** : post-calibration outputs
+**`3-outputs`** : model outputs
 
 *Note: some output files too large for GitHub, available upon request: yiranliu@stanford.edu*
 
-**`4-analysis-scripts`** : scripts to perform historical counterfactual analyses and future projections
+**`4-analysis-scripts`** : scripts to perform historical counterfactual analyses and future projections and process model outputs
 
 **`5-params`** : parameter inputs for calibration and fitted parameters post-calibration
+
+**`6-figures`** : scripts for generating manuscript figures, tables, and estimates
 
 **`shell-scripts`** : example shell scripts for running code on remote server
 
